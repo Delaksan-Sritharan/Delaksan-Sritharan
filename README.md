@@ -1,3 +1,18 @@
+👨‍🚀 // Delaksan Sritharan: Engineer in Progress
+
+📍 Origin Story: Once a biology nerd 📚, now decoding the universe with Python 🐍  
+🛸 Landed at IIT | Future CEO | Dreaming in code & flying Cessnas 🛩️  
+🧠 Zero IT background? Challenge accepted. Watch this space.
+
+🧩 Building:
+- Tools that make life easier
+- Stories that inspire
+- A legacy bigger than success
+
+🤝 Let’s not "network" — let’s build something unforgettable.  
+📫 Slide into my issues or collab requests, let’s make *impact* not just commits.
+
+🧨 Fun fact: I turn failures into fuel and ideas into fire. Stay tuned 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/delaksan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/delaksan_sritharan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delaksan-sritharan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@delaksan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/delaksans/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29412019/delaksan-sritharan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/user/delaksan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delaksan@gmail.com) 
