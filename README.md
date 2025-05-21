@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🚀 // Delaksan Sritharan: Engineer in Progress<br><br>
+👨‍🚀 // Delaksan Sritharan: Software Engineer in Progress<br><br>
 I didn’t grow up around code. 
 But I did have questions. And I wanted answers that Google couldn’t give — so I started building them.
 
