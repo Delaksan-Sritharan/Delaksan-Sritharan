@@ -1,5 +1,29 @@
 # 💫 About Me:
-👨‍🚀 // Delaksan Sritharan: Engineer in Progress<br><br>📍 Origin Story: Once a biology nerd 📚, now decoding the universe with Python 🐍<br>🛸 Landed at IIT | Future CEO | Dreaming in code & flying Cessnas 🛩️<br>🧠 Zero IT background? Challenge accepted. Watch this space.<br><br>🧩 Building:<br><br>Tools that make life easier<br>Stories that inspire<br>A legacy bigger than success<br>🤝 Let’s not "network" — let’s build something unforgettable.<br>📫 Slide into my issues or collab requests, let’s make impact not just commits.<br><br>🧨 Fun fact: I turn failures into fuel and ideas into fire. Stay tuned 🚀
+👨‍🚀 // Delaksan Sritharan: Engineer in Progress<br><br>
+I didn’t grow up around code. 
+But I did have questions. And I wanted answers that Google couldn’t give — so I started building them.
+
+I’m not here just to "learn tech."  
+I’m here to **design solutions that fix frustrations** — mine and everyone else’s.
+
+🧭 Whether it's simplifying a daily task, solving a community need, or making systems more human —  
+**I build with one goal in mind: Make life better through logic and empathy.**
+
+I take problems personally. Not because they’re mine — but because someone, somewhere, is waiting for them to be solved.  
+And I believe even the smallest tool can create a ripple that reaches further than expected.
+
+---
+
+### 🔍 Core Intentions  
+- 🛠️ Turning raw curiosity into working products  
+- 🎯 Making code mean something  
+- 🧠 Proving that passion beats background — every time  
+
+---
+
+🌱 What Drives Me : I’m not chasing titles. I’m chasing impact.
+
+Let’s build what’s next.
 
 
 ## 🌐 Socials:
