@@ -1,12 +1,12 @@
 # 💫 About Me:
 👨‍🚀 // Delaksan Sritharan: Software Engineer in Progress<br><br>
 I didn’t grow up around code. 
-But I did have questions. And I wanted answers that Google couldn’t give — so I started building them.
+But I did have questions. And I wanted answers that Google couldn’t give, so I started building them.
 
 I’m not here just to "learn tech."  
 I’m here to **design solutions that fix frustrations** — mine and everyone else’s.
 
-🧭 Whether it's simplifying a daily task, solving a community need, or making systems more human —  
+🧭 Whether it's simplifying a daily task, solving a community need, or making systems more human   
 **I build with one goal in mind: Make life better through logic and empathy.**
 
 I take problems personally. Not because they’re mine — but because someone, somewhere, is waiting for them to be solved.  
