@@ -1,40 +1,81 @@
-# 💫 About Me:
-👨‍🚀 // Delaksan Sritharan: Software Engineer in Progress<br><br>
-I didn’t grow up around code. 
-But I did have questions. And I wanted answers that Google couldn’t give, so I started building them.
+<div align="center">
 
-I’m not here just to "learn tech."  
-I’m here to **design solutions that fix frustrations** — mine and everyone else’s.
+# Delaksan Sritharan
 
-🧭 Whether it's simplifying a daily task, solving a community need, or making systems more human   
-**I build with one goal in mind: Make life better through logic and empathy.**
+**Software Engineer (Full-Stack) Intern, Customer Success @WSO2**
+Building internal tools and full-stack systems, and shipping side projects that turn messy manual processes into clean, automated ones.
 
-I take problems personally. Not because they’re mine — but because someone, somewhere, is waiting for them to be solved.  
-And I believe even the smallest tool can create a ripple that reaches further than expected.
+Colombo, Sri Lanka · [Portfolio](https://delaksan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/delaksan-sritharan/) · [Email](mailto:delaksan@gmail.com)
+
+</div>
 
 ---
 
-### 🔍 Core Intentions  
-- 🛠️ Turning raw curiosity into working products  
-- 🎯 Making code mean something  
-- 🧠 Proving that passion beats background — every time  
+## About Me
 
----
+I'm a Software Engineering undergraduate at the **University of Westminster** (via the Informatics Institute of Technology, Colombo), currently working as a **Software Engineer (Full-Stack) Intern on WSO2's Customer Success team**.
 
-🌱 What Drives Me : I’m not chasing titles. I’m chasing impact.
+I believe the purpose of building software is simple: build a world with more reasons to smile. Whether it's a sponsorship platform, a traffic fine system, or an internship dashboard, what matters to me is that a real person opens it and something in their day gets a little easier.
 
-Let’s build what’s next.
+Outside of code, I represent my batch at IIT, hold outreach roles across IEEE's Robotics & Automation and Women in Engineering chapters, and compete in startup pitch competitions when I get the chance — which has taught me as much about explaining a system clearly as building one.
 
+## Tech Stack
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/delaksan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/delaksan_sritharan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/delaksan-sritharan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@delaksan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/delaksan-sritharan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@delaksansritharan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delaksan@gmail.com) 
+| Category | Stack |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, HTML, CSS |
+| **Frameworks** | React, Next.js, Node.js, Nest.js, Spring Boot, Tailwind, Bootstrap, Thymeleaf, Tkinter, JavaFX, Swing |
+| **Databases** | MySQL, MongoDB, PostgreSQL (Supabase) |
+| **Tools & Platforms** | Git, GitHub, Postman, Figma, Jira, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA |
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
-# 📊 GitHub Stats:
-![Delaksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delaksan-Sritharan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Delaksan-Sritharan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delaksan-Sritharan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+**[CorpoVinculo](https://github.com/CorpoVinculo)** — `Next.js` `NestJS` `PostgreSQL (Supabase)` `RabbitMQ` `Cloudflare R2`
+An AI-assisted SaaS platform for managing sponsorship pipelines: a centralized company database, role-based access control, and event modules replacing scattered outreach tracking. A unified tracker with role-based workflows cut duplicate outreach by roughly 70%, and automated follow-ups plus email validation lifted response efficiency by 50%+. The interesting part was designing the RBAC and event-module schema to stay clean as multiple teams touch the same sponsor records.
+
+**Summer Internship Management System** — `React` `Spring Boot` `MongoDB` `Cloudflare` `Mailjet`
+Built during my internship at Rizing Consumer Industries: a full-stack platform to centralize intern coordination, showcase past interns and testimonials, and cut down manual back-and-forth between mentors and interns. The focus was on making a previously ad hoc, chat-based process visible and searchable in one place.
+
+**Pay Your Fine** — `Java` `Spring Boot` `MySQL` `Thymeleaf` `Bootstrap`
+A full-stack platform digitalizing Sri Lanka's traffic fine system — secure fine-issuing workflows, payment modules, and role-based authentication, backed by structured CRUD operations on an optimized MySQL schema. Cut manual processing time by roughly 50%.
+
+**Python Traffic Data Processing Tool** — `Python` `Tkinter` `CSV Processing` `Data Visualization`
+A desktop application that automates traffic flow dataset analysis: CSV ingestion, statistical summaries, histogram visualizations, and structured report generation, wrapped in a Tkinter interface with automated file validation and error handling. Improved data processing efficiency by roughly 40%.
+
+## Experience Journey
+
+```
+2024 → BEng (Hons) Software Engineering, University of Westminster (via IIT) — ongoing
+2025 → Full-Stack Intern, Rizing Consumer Industries — Summer Internship Management System
+2025 → FastTrack Program, John Keells Holdings & Brandix Lanka — Digital Readiness Gap initiative
+2026 → Software Engineer (Full-Stack) Intern, Customer Success @WSO2 — current
+```
+
+## Engineering Philosophy
+
+I think about engineering the same way I think about the pitch competitions I join: a solution only matters if someone else can see themselves using it. So I try to build things simple enough to explain in one sentence and solid enough that people trust them — because if it doesn't make someone's day a little easier, it isn't finished yet.
+
+## GitHub Stats
+
+![Delaksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delaksan-Sritharan&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delaksan-Sritharan&theme=dark&hide_border=true&layout=compact)
+
+## Currently Learning
+
+- Ballerina
+- Go
+
+## Achievements
+
+- 🏆 **Winner — Best Team Pitch Award**, Pitch60 (APIIT)
+- 🥈 **Finalist**, Pitch Perfect SLIIT, Lead Spring 2025
+- 🥈 **Finalist**, Pitch60 (APIIT)
+- 🥉 **3rd Place**, Startup Today Competition (KDU)
+- Selected top 1% of 1,000+ applicants — Rizing Summer Internship
+- Selected top 5% of candidates — FastTrack Program, John Keells & Brandix
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delaksan-sritharan/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://delaksan.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delaksan@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Delaksan-Sritharan)
