@@ -48,8 +48,8 @@ A desktop application that automates traffic flow dataset analysis: CSV ingestio
 
 ```
 2024 → BEng (Hons) Software Engineering, University of Westminster (via IIT) — ongoing
-2025 → Full-Stack Intern, Rizing Consumer Industries — Summer Internship Management System
-2025 → FastTrack Program, John Keells Holdings & Brandix Lanka — Digital Readiness Gap initiative
+2025 → Summer Intern, Rizing Consumer Industries 
+2025 → FastTrack Program, John Keells Holdings & Brandix Lanka 
 2026 → Software Engineer (Full-Stack) Intern, Customer Success @WSO2 — current
 ```
 
