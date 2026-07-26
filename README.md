@@ -59,8 +59,8 @@ I think about engineering the same way I think about the pitch competitions I jo
 
 ## GitHub Stats
 
-![Delaksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delaksan-Sritharan&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delaksan-Sritharan&theme=dark&hide_border=true&layout=compact)
+![Delaksan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Delaksan-Sritharan&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Delaksan-Sritharan&theme=dark&hide_border=true&layout=compact)
 
 ## Currently Learning
 
